@@ -1,7 +1,7 @@
 # 🏥 Hospital Management System using StarUML
-# Reg No: 212225040027
-# Name: R.Arlin Rej
-# Date: 18/11/2026
+# Reg No: 212224230144
+# Name: Lukesh M
+# Date: 23/11/2026
 
 
 A UML-based **Hospital Management System** designed using **StarUML** to model the structure, behavior, and interactions of a hospital information system. This project demonstrates the software design phase using various UML diagrams.
